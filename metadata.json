@@ -1,0 +1,6 @@
+{
+  "name": "OXVA Official Storefront",
+  "description": "OXVA flagship pod systems, Unitech dual-mesh cartridges, hardware configurator, and product authenticity verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
